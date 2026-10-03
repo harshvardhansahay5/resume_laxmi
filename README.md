@@ -1,4 +1,4 @@
-# Harshvardhan Sahay – Résumé
+# Laxmi Rathi – Résumé
 
 This repository contains the LaTeX source files for my professional résumé. It is designed for clean typography, easy local compilation, ATS-friendliness, and version control.
 
